@@ -1,0 +1,43 @@
+  {
+    "OKUMADANGECME" : "Aşağıdaki tamamen boş bırakılan yerlere ID girin OKUDUKTAN SONRA burayı silebilirsiniz + Olarak emojileri ID olarak koymazsanız çalışmaz",
+    "OKUMADANGECME2" : "TOKEN .env kısmında TOKEN yazan yerin karşısına tokeninizi yapıstırınız.",
+
+    "sahip" : "877499633918681159",
+    "prefix" : "v!",
+    "footer" : "Fathz❤️ Vietnam",
+    "botdurum" : "Zeus ❤️ Vietnam",
+
+    "tag" : "✫",
+    "sembol" : "|",
+  
+    "yetkiliRol" : ["918177305438875678"],
+    "vipRol" : "918177312980226049",
+    "boosterRol" : "918556721876701305",
+    "kayıtsızRol" : "918177328117448754",
+    "erkekRol1" : "918177320429314099",
+    "kadınRol1" : "918177316717334588",
+
+    "sifirEmoji" : :8469907861302149631:,
+    "birEmoji" : "846990866412732436",
+    "ikiEmoji" : "846990921907437588",
+    "ucEmoji" : "846990978186739722",
+    "dortEmoji" : "846991035266498580",
+    "besEmoji" : "846991110747979816",
+    "altiEmoji" : "846991161494339604",
+    "yediEmoji" : "846991248907960360",
+    "sekizEmoji" : "846991327665061929",
+    "dokuzEmoji" : "846991373567131649",
+
+    "tagRol" : "849241181531275283",
+
+    "hosgeldinKanal" : "918177384769941604	",
+    "hosgeldinMesajYetkili": "849241181543727135",
+    "rulesKanal" : "918177391304667226",
+
+    "sohbetKanal" : "918177407209467964", 
+  
+    "botSesKanal" : "918177444094177372",
+  
+    "yes" : "846991425383825430",
+    "no" : "846991475995705394"
+}
